@@ -16,8 +16,11 @@ Hello Everyone. My Name is Roshan Bohara, currently pursuing my bachelor degree 
 ### Progress:
 
 <div align = "center">
-| Days | Learned Topics | Link/s |
-|------|----------------|--------|
+
+| Days   | Learned Topics                  | Link/s            |
+| ------ | ------------------------------- | ----------------- |
 | Day 01 | Basics about python programming | Not Available Now |
-| Day 02 |                                 |                   |
+
+| Day 02 | | |
+
 </div>
