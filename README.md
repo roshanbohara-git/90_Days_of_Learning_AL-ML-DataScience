@@ -13,13 +13,31 @@ Hello Everyone. My Name is Roshan Bohara, currently pursuing my bachelor degree 
 - Reinforcement Learning
 - and so on......
 
+---
+
 ### Progress:
 
-<div align = "center">
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th>Learnt Topics</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Day 01</td>
+      <td>History, applications, setup, and first Hello World CUDA program. Covers initial CUDA installation and running a basic kernel.</td>
+      <td><a href="./Day_01/README.md">README</a></td>
+    </tr>
+    <tr>
+      <td>Day 02</td>
+      <td>Parameter passing, device queries, vector addition on kernel, and PMPP Chapter 2 exercises. Explores kernel arguments and device properties.</td>
+      <td><a href="./Day_02/README.md">README</a></td>
+    </tr>
 
-| Days   | Learned Topics                  | Link/s            |
-| ------ | ------------------------------- | ----------------- |
-| Day 01 | Basics about python programming | Not Available Now |
-| Day 02 | ...........                     | .......           |
-
+  </tbody>  
+</table>
 </div>
