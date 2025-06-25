@@ -29,12 +29,12 @@ Hello Everyone. My Name is Roshan Bohara, currently pursuing my bachelor degree 
   <tbody>
     <tr>
       <td>Day 01</td>
-      <td>History, applications, setup, and first Hello World CUDA program. Covers initial CUDA installation and running a basic kernel.</td>
+      <td>Basic About Programming Language. Introduction to Python. </td>
       <td><a href="./Day_01/README.md">README</a></td>
     </tr>
     <tr>
       <td>Day 02</td>
-      <td>Parameter passing, device queries, vector addition on kernel, and PMPP Chapter 2 exercises. Explores kernel arguments and device properties.</td>
+      <td></td>
       <td><a href="./Day_02/README.md">README</a></td>
     </tr>
 
